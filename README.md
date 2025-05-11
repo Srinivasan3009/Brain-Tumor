@@ -43,7 +43,6 @@ The trained model is deployed with a Gradio UI, allowing users to upload MRI ima
 ## ▶️ How to Run
 
 1. Open the notebook in **Google Colab**:  
-   ➤ [Click here to open in Colab](#)
 
 2. Upload your MRI image dataset or connect to your Google Drive.
 
