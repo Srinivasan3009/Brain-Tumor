@@ -20,12 +20,28 @@ The trained model is deployed with a Gradio UI, allowing users to upload MRI ima
 
 ## 🧠 Project Structure
 
-- `project2.ipynb` – Main Jupyter Notebook containing:
+- `Brain Tumor Classification System.ipynb` – Main Jupyter Notebook containing:
   - Data loading and preprocessing
   - CNN model creation and training
   - Gradio interface integration
 
+- `Brain Tumor Classification System.docx` - Report of the Brain Tumor Classification System
+- 
 - `README.md` – Documentation of the project, setup instructions, and future goals.
+
+---
+
+##  Features
+
+Classifies MRI scans into: glioma, meningioma, notumor, pituitary
+
+Uses TensorFlow/Keras for building and training a CNN
+
+Handles image preprocessing with OpenCV
+
+LabelBinarizer for multi-class output
+
+Gradio interface for easy drag-and-drop predictions
 
 ---
 
